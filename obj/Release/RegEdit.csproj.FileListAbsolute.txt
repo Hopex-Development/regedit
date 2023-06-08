@@ -1,0 +1,8 @@
+C:\Users\schizo\source\repos\hopex\RegEdit\bin\Release\Hopex.RegEdit.dll.config
+C:\Users\schizo\source\repos\hopex\RegEdit\bin\Release\Hopex.RegEdit.dll
+C:\Users\schizo\source\repos\hopex\RegEdit\bin\Release\Hopex.RegEdit.pdb
+C:\Users\schizo\source\repos\hopex\RegEdit\obj\Release\RegEdit.csproj.AssemblyReference.cache
+C:\Users\schizo\source\repos\hopex\RegEdit\obj\Release\RegEdit.csproj.CoreCompileInputs.cache
+C:\Users\schizo\source\repos\hopex\RegEdit\obj\Release\Hopex.RegEdit.dll
+C:\Users\schizo\source\repos\hopex\RegEdit\obj\Release\Hopex.RegEdit.pdb
+C:\Users\schizo\source\repos\hopex\RegEdit\bin\Release\Hopex.RegEdit.xml
